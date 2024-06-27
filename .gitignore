@@ -163,5 +163,9 @@ cython_debug/
 
 data/test
 data/train
+data/*submission.csv
+data/*test.csv
+data/*val.csv
 models
 wandb
+catboost_info
